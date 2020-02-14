@@ -1,6 +1,6 @@
 # Write your #display_rainbow method here
 def display_rainbow(colors)
-  colors = ['Red'[0], 'Orange'[1], 'Yellow'[2], 'Green'[3], 'Blue'[4], 'Indigo'[5], 'Violet'[6]]
+  colors = ['R: red'[0], 'O: orange'[1], 'Y: yellow'[2], 'G: green'[3], 'B: blue'[4], 'I: indigo'[5], 'V: violet'[6]]
   print colors
 end
    
